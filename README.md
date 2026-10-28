@@ -9,6 +9,13 @@ Telegram-бот, который отвечает клиентам строго �
 **Стек:** Python 3.13, aiogram 3, SQLite (aiosqlite), YandexGPT / GigaChat через
 OpenAI-совместимый API (библиотека `openai`), pytest.
 
+## Демонстрация
+
+
+https://github.com/user-attachments/assets/bdd468cb-140d-4c12-83e0-41b0b94ad5bc
+
+
+
 ## Возможности
 
 **Для клиента**
